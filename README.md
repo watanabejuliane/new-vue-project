@@ -1,24 +1,5 @@
 # new-vue-project
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Este projeto é uma aplicação simples de lista de tarefas desenvolvida com Vue.js, seguindo o "Guide Start Vue3". 
+Funcionalidades: adicionar tarefas, marcar tarefas como concluídas, remover tarefas.
+HTML, CSS e Vue.js 3
